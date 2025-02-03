@@ -1,0 +1,352 @@
+Uri: https://cdn.jsdelivr.net/npm/jquery-lazyload@1.9.7/jquery.lazyload.min.js
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\npm\jquery-lazyload@1.9.7\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-2.2.4.min.js
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://giko.meme/
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\index.htm
+Content Type: text/html
+
+Uri: https://giko.meme/audio/audio.mp3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\audio\audio.mp3
+Content Type: audio/mpeg
+
+Uri: https://giko.meme/audio/dialup.m4a
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\audio\dialup.m4a
+Content Type: audio/mp4
+
+Uri: https://giko.meme/favicon/android-icon-192x192.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-114x114.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-120x120.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-144x144.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-152x152.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-180x180.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-57x57.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-60x60.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-72x72.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/apple-icon-76x76.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/favicon-16x16.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/favicon-32x32.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/favicon-96x96.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://giko.meme/favicon/manifest.json
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\favicon\manifest.json
+Content Type: application/json
+
+Uri: https://giko.meme/fu.css
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\fu.css
+Content Type: text/css
+
+Uri: https://giko.meme/images/e-honda.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\e-honda.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/fast-sky.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\fast-sky.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/fireball_2.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\fireball_2.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/geeeko.webp
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\geeeko.webp
+Content Type: image/webp
+
+Uri: https://giko.meme/images/gikground.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\gikground.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/giko-logo.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\giko-logo.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/giko-surprise.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\giko-surprise.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/gikoheads.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\gikoheads.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/gikopsych.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\gikopsych.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/head-logo-bg.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\head-logo-bg.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/n64.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\n64.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/pixelbg.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\pixelbg.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/playbutton.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\playbutton.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/sparkles.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\sparkles.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/sparklesm.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\sparklesm.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/telegram.svg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://giko.meme/images/time_1.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\time_1.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/time_2.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\time_2.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/time_3.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\time_3.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/time_4.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\time_4.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/tv.gif
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\tv.gif
+Content Type: image/gif
+
+Uri: https://giko.meme/images/videothumb/giko-chad.jpg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\videothumb\giko-chad.jpg
+Content Type: image/jpeg
+
+Uri: https://giko.meme/images/videothumb/giko-kiss.jpg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\videothumb\giko-kiss.jpg
+Content Type: image/jpeg
+
+Uri: https://giko.meme/images/videothumb/giko-ns.jpg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\videothumb\giko-ns.jpg
+Content Type: image/jpeg
+
+Uri: https://giko.meme/images/videothumb/giko-red.jpg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\videothumb\giko-red.jpg
+Content Type: image/jpeg
+
+Uri: https://giko.meme/images/volume-off.svg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\volume-off.svg
+Content Type: image/svg+xml
+
+Uri: https://giko.meme/images/volume-on.svg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\volume-on.svg
+Content Type: image/svg+xml
+
+Uri: https://giko.meme/images/windows-98.jpg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windows-98.jpg
+Content Type: image/jpeg
+
+Uri: https://giko.meme/images/windw-bottom.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-bottom.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-bottomleft.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-bottomleft.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-bottomright.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-bottomright.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-left.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-left.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-right.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-right.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-top.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-top.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-topleft.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-topleft.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/windw-topright.png
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\windw-topright.png
+Content Type: image/png
+
+Uri: https://giko.meme/images/x.svg
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\images\x.svg
+Content Type: image/svg+xml
+
+Uri: https://giko.meme/scripts.js
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\scripts.js
+Content Type: application/javascript
+
+Uri: https://giko.meme/video/giko-chad.mp4
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\video\giko-chad.mp4
+Content Type: video/mp4
+
+Uri: https://giko.meme/video/giko-kiss.mp4
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\video\giko-kiss.mp4
+Content Type: video/mp4
+
+Uri: https://giko.meme/video/giko-ns.mp4
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\video\giko-ns.mp4
+Content Type: video/mp4
+
+Uri: https://giko.meme/video/giko-red.mp4
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\video\giko-red.mp4
+Content Type: video/mp4
+
+Uri: https://p.typekit.net/p.css?s=1&k=fam3zyv&ht=tk&f=53124.53125.53126.53127.53128&a=85017377&app=typekit&e=css
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\p.css
+Content Type: text/css
+
+Uri: https://p.typekit.net/p.css?s=1&k=xdk7xxa&ht=tk&f=53218.57147&a=85017377&app=typekit&e=css
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\p-1.css
+Content Type: text/css
+
+Uri: https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\@lottiefiles\lottie-player@2.0.12\dist\lottie-player.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/af/459753/0000000000000000774edfff/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\459753\0000000000000000774edfff\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/459753/0000000000000000774edfff/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\459753\0000000000000000774edfff\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/459753/0000000000000000774edfff/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\459753\0000000000000000774edfff\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/5972d8/0000000000000000774edffe/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\5972d8\0000000000000000774edffe\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/5972d8/0000000000000000774edffe/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\5972d8\0000000000000000774edffe\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/5972d8/0000000000000000774edffe/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\5972d8\0000000000000000774edffe\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/6b5798/0000000000000000774f2aee/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\6b5798\0000000000000000774f2aee\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/6b5798/0000000000000000774f2aee/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\6b5798\0000000000000000774f2aee\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/6b5798/0000000000000000774f2aee/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\6b5798\0000000000000000774f2aee\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/81e9ac/0000000000000000774ee000/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\81e9ac\0000000000000000774ee000\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/81e9ac/0000000000000000774ee000/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\81e9ac\0000000000000000774ee000\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/81e9ac/0000000000000000774ee000/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\81e9ac\0000000000000000774ee000\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/9d3512/0000000000000000774edffd/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\9d3512\0000000000000000774edffd\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/9d3512/0000000000000000774edffd/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\9d3512\0000000000000000774edffd\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/9d3512/0000000000000000774edffd/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\9d3512\0000000000000000774edffd\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/fe143b/000000000000000077559564/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\fe143b\000000000000000077559564\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/fe143b/000000000000000077559564/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\fe143b\000000000000000077559564\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/fe143b/000000000000000077559564/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\fe143b\000000000000000077559564\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/ff9af6/0000000000000000774ee001/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\ff9af6\0000000000000000774ee001\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/ff9af6/0000000000000000774ee001/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\ff9af6\0000000000000000774ee001\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/ff9af6/0000000000000000774ee001/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\af\ff9af6\0000000000000000774ee001\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/fam3zyv.css
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\fam3zyv.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/xdk7xxa.css
+File Name: C:\Users\Administrator\OneDrive\Рабочий стол\4\giko.meme\xdk7xxa.css
+Content Type: text/css
+

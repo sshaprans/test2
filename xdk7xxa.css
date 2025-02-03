@@ -1,0 +1,31 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * glowworm-mn:
+ *   - http://typekit.com/eulas/000000000000000077559564
+ * pf-videotext:
+ *   - http://typekit.com/eulas/0000000000000000774f2aee
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-08-01 20:12:20 UTC"}*/
+
+@import url("p-1.css");
+
+@font-face {
+font-family:"pf-videotext";
+src:url("af/6b5798/0000000000000000774f2aee/30/l") format("woff2"),url("af/6b5798/0000000000000000774f2aee/30/d") format("woff"),url("af/6b5798/0000000000000000774f2aee/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"glowworm-mn";
+src:url("af/fe143b/000000000000000077559564/30/l") format("woff2"),url("af/fe143b/000000000000000077559564/30/d") format("woff"),url("af/fe143b/000000000000000077559564/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-pf-videotext { font-family: "pf-videotext",sans-serif; }
+.tk-glowworm-mn { font-family: "glowworm-mn",sans-serif; }
